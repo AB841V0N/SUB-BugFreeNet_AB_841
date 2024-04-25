@@ -1,6 +1,5 @@
-
 {
-  "remarks": "Turkey🇹🇷@AB_841(BugFreeNet)📆7day all net🗿",
+  "remarks": "italy🇮🇹@AB_841(BugFreeNet)📆7day all net🗿",
   "log": {
     "access": "",
     "error": "",
@@ -53,11 +52,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "188.114.99.165",
+            "address": "162.159.195.57",
             "port": 443,
             "users": [
               {
-                "id": "2c0a6f4d-3a1c-4878-a2e3-7edf9fc996f5",
+                "id": "1ecfa373-7067-4c03-b275-bf5cad5f5121",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -73,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "TR1-VLesS.SSHmax.Xyz",
+          "serverName": "IT2.v2Vless.xyz",
           "alpn": [
             "h2",
             "http/1.1"
@@ -84,7 +83,7 @@
         "wsSettings": {
           "path": "/vless",
           "headers": {
-            "Host": "TR1-VLesS.SSHmax.Xyz"
+            "Host": "IT2.v2Vless.xyz"
           }
         },
         "sockopt": {
