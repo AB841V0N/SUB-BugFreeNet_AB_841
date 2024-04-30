@@ -1,5 +1,5 @@
 {
-  "remarks": "nl🇳🇱@AB_841(BugFreeNet)📆7day all net🗿",
+  "remarks": "🔮@AB-841🔱BugFreeNet🔱7day📆",
   "log": {
     "access": "",
     "error": "",
@@ -52,11 +52,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "188.114.99.242",
-            "port": 2053,
+            "address": "188.114.98.93",
+            "port": 443,
             "users": [
               {
-                "id": "fd000db5-2319-4a41-b102-a389560da618",
+                "id": "d566e589-93f6-4106-8e89-443e9dc748c9",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -72,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "nl2.v2VLesS.xYZ",
+          "serverName": "rEtuNed.ToPtecHnOnEWs.coM",
           "alpn": [
             "h2",
             "http/1.1"
@@ -81,9 +81,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/vless",
+          "path": "/nimws",
           "headers": {
-            "Host": "nl2.v2VLesS.xYZ"
+            "Host": "rEtuNed.ToPtecHnOnEWs.coM"
           }
         },
         "sockopt": {
