@@ -1,5 +1,5 @@
 {
-  "remarks": "🔮@AB-841🔱BugFreeNet🔱7day📆",
+  "remarks": "🇩🇪Vless ws tls (@AB_841)+[BugFreeNet]",
   "log": {
     "access": "",
     "error": "",
@@ -52,11 +52,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "188.114.98.93",
+            "address": "162.159.192.80",
             "port": 443,
             "users": [
               {
-                "id": "d566e589-93f6-4106-8e89-443e9dc748c9",
+                "id": "6c6ec289-e6dd-4b4a-8c1a-c45c9cae4333",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -72,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rEtuNed.ToPtecHnOnEWs.coM",
+          "serverName": "dE1.V2vlESS.xyZ",
           "alpn": [
             "h2",
             "http/1.1"
@@ -81,9 +81,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/nimws",
+          "path": "/vless",
           "headers": {
-            "Host": "rEtuNed.ToPtecHnOnEWs.coM"
+            "Host": "dE1.V2vlESS.xyZ"
           }
         },
         "sockopt": {
